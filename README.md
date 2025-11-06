@@ -7,9 +7,10 @@
 
 <br><br>
 
-- :school: I am a student of cross-platform application development.
+- :school: I am a student of cross-platform application development in `CPR Plurilingüe Karbo`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Programming Languages` and `Database Administration`.
+- :student: I’m currently learning `Programming Languages`,  `Database Administration`, `Mobile development` 
+.
 - :nerd_face: Always `learning new things`.
 <br>
 
