@@ -77,9 +77,9 @@
   &emsp;
     <a href="#"><img alt="Apache Net Beans" src="https://img.shields.io/badge/Apache%20Net%20Beans-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-0078d7.svg?style=plastic&logo=unity&logoColor=black"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23181717.svg?style=plastic&logo=unity&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=plastic&logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%2334A853.svg?style=plastic&logo=android-studio&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
